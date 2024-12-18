@@ -4,7 +4,7 @@
 This repository contains the code and documentation for **Team Project 21022103**, which focuses on analyzing the growth trends of GDP and other influential factors affecting the debt of Thai people. This project is part of the **Probability and Statistics for Electrical Engineering [2013/1]** course. Our team was honored with the **Best Team Award**, as announced by the professor of this course.
 
 ## Authors
-- **Thanadol Klainin** (Main Coder)
+- **Thanadol Klainin** (Me as Main Coder)
 - **Teetat Saelor**
 
 ## Team Achievement
